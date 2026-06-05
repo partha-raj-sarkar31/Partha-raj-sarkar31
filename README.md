@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Partho Raj
+# 👋 Hi, I'm Partho Raj Sarkar (Oloc)
 
 🎓 CSE Student | 🤖 AI & ML Enthusiast | ⚡ Light Robotics Hobbyist  
 📍 Bangladesh | 💻 Open to Collaborations & Internship Opportunities
