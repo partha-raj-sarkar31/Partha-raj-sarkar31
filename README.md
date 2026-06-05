@@ -45,9 +45,9 @@ Varendra University | 4th Semester
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your_email@example.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
-- 💼 GitHub: https://github.com/yourusername  
+- 📧 Email: pkpartho069@gmail.com  
+- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://bd.linkedin.com/in/parth%C3%A5-raj-sarkar-426794351)  
+- 💼 GitHub: [https://github.com/yourusername](https://github.com/partho-raj" class="social-btn)  
 - 🌐 Portfolio: (optional)
 
 ---
