@@ -32,7 +32,8 @@ I love creating projects that merge **AI algorithms** with **practical robotics 
 - **AI-Powered Object Detection Robot** – Autonomous robot using OpenCV and Arduino  
 - **Machine Learning Prediction Models** – Data-driven prediction with Python  
 - **Lightweight Robotics Simulations** – Sensor integration and motion control  
-- **Mini AI Chatbot** – NLP based conversational agent  
+- **Mini AI Chatbot** – NLP based conversational agent
+- **Fastest LFR** – Robo Compitant at varandra University  
 
 *(More projects will be added soon…)*
 
