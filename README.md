@@ -41,7 +41,7 @@ I love creating projects that merge **AI algorithms** with **practical robotics 
 
 ## 📚 Education
 **B.Sc. in Computer Science & Engineering**  
-Varendra University | 4th Semester  
+Varendra University | Undergraduate  
 
 ---
 
