@@ -1,76 +1,60 @@
-# 👋 Hi, I'm Partho Raj Sarkar (Oloc)
+# Hi, I'm Partha Raj Sarkar 👋
 
-🎓 CSE Student | 🤖 AI & ML Enthusiast | ⚡ Light Robotics Hobbyist  
-📍 Bangladesh | 💻 Open to Collaborations & Internship Opportunities
+### CSE Undergraduate | AI/ML & Robotics | Autonomous Systems
 
----
-
-## 🧠 About Me
-I am a passionate Computer Science & Engineering student with a strong focus on **Artificial Intelligence, Machine Learning, and Robotics**.  
-I love creating projects that merge **AI algorithms** with **practical robotics applications**, exploring automation, computer vision, and intelligent systems.
+I'm a Computer Science and Engineering undergraduate at Varendra University, Bangladesh. I am deeply interested in building intelligent systems that merge machine learning, robotics, simulation, and hardware.
 
 ---
 
-## 🚀 Skills
+### 🔬 Research Interests
 
-### Programming & Tools
+- **Autonomous Driving & Safe Reinforcement Learning**
+- **Robotics & Embodied AI**
+- **Simulation-Based Learning**
+- **Embedded Systems & Hardware–Software Integration**
+
+---
+
+### 🚗 Featured Work
+
+#### 🎯 Autonomous Driving and Safe RL — *Undergraduate Thesis*
+Researching autonomous navigation in Bangladesh-inspired mixed-traffic environments using **CARLA** and reinforcement learning.
+- **Focus:** Curriculum-learning PPO, traffic scenario design, and safety evaluation.
+- **Status:** Ongoing research.
+
+#### 🤖 Robotics and Embedded Systems
+Hands-on experience developing line follower robots (LFR), soccer bots, sensors, motor control, and microcontroller-based systems.
+
+#### 🔍 Explainable AI for Fraud Detection
+An applied machine learning project exploring transactional fraud detection and explainable AI.
+
+---
+
+### 🛠️ Technical Toolkit
+
 - **Languages:** Python, C, C++
-- **Libraries & Frameworks:** TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Matplotlib
-- **Robotics & Hardware:** Arduino, Raspberry Pi, Sensors & Actuators
-- **Other Tools:** Git, GitHub, Jupyter Notebook, VS Code
-
-### Concepts & Areas
-- Machine Learning & Deep Learning
-- Computer Vision & Image Processing
-- Robotics Control & Automation
-- Neural Networks & Reinforcement Learning
-- Data Analysis & Visualization
+- **AI/ML & RL:** Machine Learning, Reinforcement Learning, PPO, PyTorch, TensorFlow
+- **Simulation & Robotics:** CARLA, Embedded Systems, Microcontrollers, Sensors & Actuators
 
 ---
 
-## 📂 Projects
-- **AI-Powered Object Detection Robot** – Autonomous robot using OpenCV and Arduino  
-- **Machine Learning Prediction Models** – Data-driven prediction with Python  
-- **Lightweight Robotics Simulations** – Sensor integration and motion control  
-- **Mini AI Chatbot** – NLP based conversational agent
-- **Fastest LFR** – Robo Compitant at varandra University  
+### 🎯 Current Focus
 
-*(More projects will be added soon…)*
+- 📈 Developing my undergraduate autonomous driving thesis
+- 🧪 Strengthening my research methodologies and experimental skills
+- 💻 Building robust, reproducible AI/ML and robotics projects
+- 🎓 Preparing for research-focused MSc opportunities and engineering roles
 
 ---
 
-## 📚 Education
-**B.Sc. in Computer Science & Engineering**  
-Varendra University | Undergraduate  
+### 🤝 Collaboration & Networking
+
+I am always excited to collaborate on **autonomous systems, safe reinforcement learning, robotics, and applied AI research**. Feel free to reach out!
+
+### 📫 Connect with Me
+
+[![GitHub](https://shields.io)](https://github.com/partha-raj-sarkar31)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
-
-## 📫 Contact Me
-- 📧 Email: pkpartho069@gmail.com  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://bd.linkedin.com/in/parth%C3%A5-raj-sarkar-426794351)  
-- 💼 GitHub: [https://github.com/yourusername](https://github.com/partho-raj" class="social-btn)  
-- 🌐 Portfolio: (optional)
-
----
-
-## 📊 GitHub Stats
-![Partho Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-⭐ *I enjoy building AI & robotics solutions, learning new technologies, and contributing to open-source projects. Feel free to explore my repositories and conn## Hi there 👋
-
-<!--
-**partha-raj-sarkar31/Partha-raj-sarkar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>This profile highlights my ongoing learning, research, and engineering projects.</i></p>
