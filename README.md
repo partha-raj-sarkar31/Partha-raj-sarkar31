@@ -1,4 +1,4 @@
-# Hi, I'm Partha Sarkar Alok 👋
+# Hi, I'm Partha Sarkar Alok 
 
 ### CSE Undergraduate | AI/ML & Robotics | Autonomous Systems
 
@@ -15,17 +15,17 @@ I'm a Computer Science and Engineering undergraduate at Varendra University, Ban
 
 ---
 
-### 🚗 Featured Work
+### Featured Work
 
-#### 🎯 Autonomous Driving and Safe RL — *Undergraduate Thesis*
+#### Autonomous Driving and Safe RL — *Undergraduate Thesis*
 Researching autonomous navigation in Bangladesh-inspired mixed-traffic environments using **CARLA** and reinforcement learning.
 - **Focus:** Curriculum-learning PPO, traffic scenario design, and safety evaluation.
 - **Status:** Ongoing research.
 
-#### 🤖 Robotics and Embedded Systems
+#### Robotics and Embedded Systems
 Hands-on experience developing line follower robots (LFR), soccer bots, sensors, motor control, and microcontroller-based systems.
 
-#### 🔍 Explainable AI for Fraud Detection
+#### Explainable AI for Fraud Detection
 An applied machine learning project exploring transactional fraud detection and explainable AI.
 
 ---
@@ -47,11 +47,11 @@ An applied machine learning project exploring transactional fraud detection and 
 
 ---
 
-### 🤝 Collaboration & Networking
+### Collaboration & Networking
 
 I am always excited to collaborate on **autonomous systems, safe reinforcement learning, robotics, and applied AI research**. Feel free to reach out!
 
-### 📫 Connect with Me
+### Connect with Me
 Official Name :Oloc Chandro
 [![GitHub](https://shields.io)](https://github.com/partha-raj-sarkar31)
 [![LinkedIn](https://shields.io)](https://linkedin.com)
