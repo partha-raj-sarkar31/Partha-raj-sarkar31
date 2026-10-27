@@ -53,8 +53,9 @@ I am always excited to collaborate on **autonomous systems, safe reinforcement l
 
 ### Connect with Me
 Official Name :Oloc Chandro
+
 [![GitHub](https://shields.io)](https://github.com/partha-raj-sarkar31)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://bd.linkedin.com/in/partha-sarkar-%C3%B4loc-426794351)
 
 ---
 <p align="center"><i>This profile highlights my ongoing learning, research, and engineering projects.</i></p>
