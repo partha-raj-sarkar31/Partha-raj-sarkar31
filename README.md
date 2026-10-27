@@ -1,4 +1,4 @@
-# Hi, I'm Partha Raj Sarkar 👋
+# Hi, I'm Partha Sarkar Alok 👋
 
 ### CSE Undergraduate | AI/ML & Robotics | Autonomous Systems
 
@@ -52,7 +52,7 @@ An applied machine learning project exploring transactional fraud detection and 
 I am always excited to collaborate on **autonomous systems, safe reinforcement learning, robotics, and applied AI research**. Feel free to reach out!
 
 ### 📫 Connect with Me
-
+Official Name :Oloc Chandro
 [![GitHub](https://shields.io)](https://github.com/partha-raj-sarkar31)
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 
